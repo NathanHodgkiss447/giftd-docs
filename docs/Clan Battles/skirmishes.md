@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Introduction"
+sidebar_label: "Skirmishes (X)"
 sidebar_position: 1
 ---
 

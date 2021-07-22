@@ -1,6 +1,6 @@
 ---
-sidebar_label: "Introduction"
-sidebar_position: 1
+sidebar_label: "Skirmishes (VI)"
+sidebar_position: 3
 ---
 
 # Welcome to GIFTD Documentation
