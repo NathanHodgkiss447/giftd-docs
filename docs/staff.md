@@ -1,14 +1,18 @@
 ---
-sidebar_label: 'Staff'
+sidebar_label: "Rules"
 sidebar_position: 2
 ---
 
-# GIFTD Staff
+# GIFTD Rules
 
-**Commander:** Looniski
+1. No racism. :x:
 
-**Executive Officer:** Venom
+2. Do no share real life information on Discord. :x:
 
-**Executive Officer:** Dsqdsq
+3. No porn/nudes/self-harm/suicide/graphic content. :x:
 
-**Executive Officer:** BlameItOnMyNationality
+4. Attempt to use the appropriate channels. :white_check_mark:
+
+5. Refrain from using languages other than English. :x:
+
+6. Please post all NSFW content in the #memes-fun. :white_check_mark:
