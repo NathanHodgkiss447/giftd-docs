@@ -28,6 +28,14 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
+html[data-theme='dark'] .hero__subtitle {
+  color: white;
+}
+
+html[data-theme='dark'] .text--center{
+  fill: white;
+}
+
 
 .hero__subtitle {
   font-weight: 800;
