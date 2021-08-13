@@ -9,7 +9,7 @@ module.exports = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/giftd-emblem.ico",
+  favicon: "img/favicon.ico",
   organizationName: "giftd", // Usually your GitHub org/user name.
   projectName: "giftd-docs", // Usually your repo name.
   themeConfig: {
@@ -36,9 +36,7 @@ module.exports = {
     },
     footer: {
       style: "dark",
-      links: [
-        
-      ],
+      links: [],
       copyright: `Copyright © ${new Date().getFullYear()} GIFTD Docs, Inc. Built with Docusaurus.`,
     },
     prism: {
