@@ -9,7 +9,7 @@ module.exports = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/giftd-emblem.ico",
   organizationName: "giftd", // Usually your GitHub org/user name.
   projectName: "giftd-docs", // Usually your repo name.
   themeConfig: {
