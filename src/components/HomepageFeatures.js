@@ -8,8 +8,9 @@ const FeatureList = [
     Svg: require('../../static/img/giftd-icon.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        GIFTD is an international clan that strives to achieve a balance between competitive play and maintaining a social atmosphere. 
+        <br></br>
+        We participate in advances/skirmishes daily and will compete in all campaigns.
       </>
     ),
   },
@@ -18,8 +19,12 @@ const FeatureList = [
     Svg: require('../../static/img/teamspeak-icon.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We use TeamSpeak as our primary method for voice communication.
+        <br></br>
+        <b>Address:</b> giftd.teamspeak3.org
+        <br></br>
+        <b>Password:</b> Ask staff
+
       </>
     ),
   },
@@ -28,8 +33,10 @@ const FeatureList = [
     Svg: require('../../static/img/discord-icon.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        For general chatter, important announcements, and any other than voice comms we use Discord.
+        <br>
+        </br>
+        <b>Discord:</b> https://discord.gg/NZKp8f3DFT
       </>
     ),
   },
