@@ -16,7 +16,3 @@ sidebar_position: 4
 ## Herhor (MOE Generator): (https://herhor.net/wot/moe/)
 
 <iframe src="https://herhor.net/wot/moe/" width="1000px" height="800px"></iframe>
-
-## WOT Replays: (http://wotreplays.eu/)
-
-<iframe src="http://wotreplays.eu/" width="1000px" height="800px"></iframe>
