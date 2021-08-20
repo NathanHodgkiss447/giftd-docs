@@ -12,7 +12,7 @@ sidebar_position: 1
 - **How it works:**
   - You earn personal fame points during the campaign for battles won, this determines your individual position on a leaderboard (also known as the [alley of fame](https://worldoftanks.eu/en/clanwars/rating/alley/#wot&aof_front=thunderstorm_bg&aof_rating=accounts&aof_filter=all&aof_page=0&aof_size=25)).
   - Individual position on the leaderboard (alley of fame) results in a reward tank of your choice (*only the tanks on offer for the specific campaign*) and a certain amount of bonds. (EG: Top 8,000 players earn a reward tank).
-  - The overall clan also earns fame points, the higher the clans position on the leaderboard results in a larger multiplier that is applied to individual bonds earned. (EG: X5 multiplier on 600 bonds = 3,000 bonds for a player).
+  - The clan also earns fame points, the higher the clans position on the leaderboard results in a larger multiplier that is applied to individual bonds earned. (EG: X5 multiplier on 600 bonds = 3,000 bonds for a player).
 
 - **How teams are selected:** Simply, teams are chosen based off a mixture off three criteria as follows
   - Activity (Continuous throughout the year, not just pre-campaign).

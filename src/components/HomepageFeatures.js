@@ -36,7 +36,7 @@ const FeatureList = [
         For general chatter, important announcements, and anything outside of voice communication, we use Discord.
         <br>
         </br>
-        <b>Discord:</b> https://discord.gg/NZKp8f3DFT
+        <b>Discord:</b> <a href="https://discord.gg/NZKp8f3DFT" alt="Discord Invite">https://discord.gg/NZKp8f3DFT</a>
       </>
     ),
   },

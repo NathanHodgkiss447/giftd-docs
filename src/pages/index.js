@@ -34,7 +34,7 @@ export default function Home() {
   return (
     <Layout
       title="GIFTD Documentation"
-      description="Description will go into a meta tag in <head />"
+      description="The home of GIFTD documentation"
     >
       <HomepageHeader />
       <main>
