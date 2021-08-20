@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('../../static/img/giftd-icon.svg').default,
     description: (
       <>
-        GIFTD is an international clan that strives to achieve a balance between competitive play and maintaining a social atmosphere. 
+        GIFTD is an international clan that strives to achieve a balance between competitive play and maintaining a social atmosphere.
         <br></br>
         We participate in advances/skirmishes daily and will compete in all campaigns.
       </>
@@ -23,7 +23,7 @@ const FeatureList = [
         <br></br>
         <b>Address:</b> giftd.teamspeak3.org
         <br></br>
-        <b>Password:</b> Ask staff
+        <b>Password:</b> beyonce
 
       </>
     ),
@@ -33,7 +33,7 @@ const FeatureList = [
     Svg: require('../../static/img/discord-icon.svg').default,
     description: (
       <>
-        For general chatter, important announcements, and any other than voice comms we use Discord.
+        For general chatter, important announcements, and anything outside of voice communication, we use Discord.
         <br>
         </br>
         <b>Discord:</b> https://discord.gg/NZKp8f3DFT
@@ -42,7 +42,7 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
