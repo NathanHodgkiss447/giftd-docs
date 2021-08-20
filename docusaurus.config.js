@@ -9,7 +9,7 @@ module.exports = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/giftd-emblem.ico",
   organizationName: "giftd", // Usually your GitHub org/user name.
   projectName: "giftd-docs", // Usually your repo name.
   themeConfig: {
@@ -49,10 +49,7 @@ module.exports = {
       "@docusaurus/preset-classic",
       {
         docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
-          editUrl:
-            "https://github.com/facebook/docusaurus/edit/master/website/",
+          sidebarPath: require.resolve("./sidebars.js")
         },
         blog: {
           showReadingTime: true,
