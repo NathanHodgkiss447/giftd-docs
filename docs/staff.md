@@ -7,7 +7,7 @@ sidebar_position: 2
 
 1. No racism. :x:
 
-2. Do no share real life information on Discord. :x:
+2. Don't share real life information on Discord. :x:
 
 3. No porn/nudes/self-harm/suicide/graphic content. :x:
 
