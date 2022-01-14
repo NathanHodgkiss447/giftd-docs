@@ -14,6 +14,7 @@ The following is an ideal list of tanks and their respective equipment load outs
 | Object 277 | Improved Hardening, Rammer, Vert Stabs/Turbo (FC Choice) |
 | Object 260 | Improved Hardening, Rammer, Vert Stabs/Turbo (FC Choice)|
 | Object 279e | Improved Hardening, Rammer, Modified Configuration/Turbo|
+| VZ. 55 | Improved Hardening, Vert Stab, Turbo|
 | Chieftain | Improved Hardening, Rammer, Vert Stabs/Turbo (FC Choice)|
 | 60TP | Improved Hardening, Rammer, Vert Stabs|
 | E100 | Improved Hardening, Rammer, Vert Stabs|
